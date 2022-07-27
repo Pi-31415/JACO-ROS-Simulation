@@ -141,3 +141,7 @@ Control using Moveit and RViz
 roslaunch j2n6s300_moveit_config j2n6s300_gazebo_demo.launch
 ```
 
+You should see these after a while, ready to control
+
+![Robot](./test.png)
+
