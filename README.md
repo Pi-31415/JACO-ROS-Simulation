@@ -5,8 +5,11 @@ ROS simulation preparation for JACO robot in Ubuntu 18.04
 # System Requirements and Software Packages Used
 
 System : Ubuntu 18.04
+
 ROS : [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
 Robot : [Kinova JACO Assistive Robot Arm](https://assistive.kinovarobotics.com/product/jaco-robotic-arm)
+
 ROS Package : [Kinovarobotics](https://github.com/Kinovarobotics/kinova-ros)
 
 
