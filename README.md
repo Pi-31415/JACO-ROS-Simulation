@@ -127,3 +127,17 @@ sudo apt-get install ros-melodic-ros-controllers
 sudo apt-get install ros-melodic-trac-ik-kinematics-plugin
 ```
 
+# Simulating and moving the Robot
+
+Start the Gazebo Simulation 
+
+```bash
+roslaunch kinova_gazebo robot_launch.launch kinova_robotType:=j2n6s300
+```
+
+Control using Moveit and RViz
+
+```bash
+roslaunch j2n6s300_moveit_config j2n6s300_gazebo_demo.launch
+```
+
