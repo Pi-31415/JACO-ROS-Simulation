@@ -121,3 +121,9 @@ Build the package
 catkin_make
 ```
 
+```
+sudo apt-get install ros-melodic-gazebo-ros-control
+sudo apt-get install ros-melodic-ros-controllers
+sudo apt-get install ros-melodic-trac-ik-kinematics-plugin
+```
+
