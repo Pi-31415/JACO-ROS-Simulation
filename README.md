@@ -1,8 +1,16 @@
 # JACO-ROS-Simulation
 ROS simulation preparation for JACO robot in Ubuntu 18.04
 
-**IMPORTANT : IF YOU USE ZSH INSTEAD OF BASH, REPLACE ALL bashrc with zshrc**
 
+# System Requirements and Software Packages Used
+
+System : Ubuntu 18.04
+ROS : [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+Robot : [Kinova JACO Assistive Robot Arm](https://assistive.kinovarobotics.com/product/jaco-robotic-arm)
+ROS Package : [Kinovarobotics](https://github.com/Kinovarobotics/kinova-ros)
+
+
+**IMPORTANT : IF YOU USE ZSH INSTEAD OF BASH, REPLACE ALL bashrc with zshrc**
 
 **First ,get a clean install of Ubuntu 18.04**
 
